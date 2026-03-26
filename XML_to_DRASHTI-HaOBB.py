@@ -6,8 +6,8 @@ import os
 import shutil
 
 #Update images and XML path
-img_path="imgs"
-xml_path="annotations.xml"
+img_path="Sample Images"
+xml_path="Annotations/annotations.xml"
 ##################
 
 
