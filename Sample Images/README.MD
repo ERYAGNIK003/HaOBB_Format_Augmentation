@@ -1,1 +1,2 @@
-UIT-ADrone
+# Sample images from DRASHTI-HaOBB and UIT-ADrone datasets.
+
