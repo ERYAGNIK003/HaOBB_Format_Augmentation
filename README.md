@@ -1,5 +1,5 @@
 # HaOBB_Format_Augmentation
-This repository contained Python scripts for converting CVAT XML to DRASHTI-HaOBB annotation format and HaOBB augmentation.
+This repository provides Python scripts for converting CVAT XML to DRASHTI-HaOBB annotation format and HaOBB augmentation.
 
 ## Clone the directory
 ```bash
