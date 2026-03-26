@@ -25,7 +25,7 @@ OR
 ```bash
 python DRASHTI-HaOBB_Augmentation.py --img Sample\ Images/5640.jpg --lbl output/drashti_lbls/5640.txt --hsv --affine --fliplr --flipud
 ```
-
+This will generate an augmented image named "augmented_image.jpg" in the local directory.
 ## 📜 Citation
 
 If you use this pipeline or dataset in your research, please cite:
