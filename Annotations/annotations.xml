@@ -1,0 +1,381 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotations>
+  <version>1.1</version>
+  <meta>
+    <job>
+      <id>38</id>
+      <size>138</size>
+      <mode>annotation</mode>
+      <overlap>0</overlap>
+      <bugtracker></bugtracker>
+      <created>2026-03-26 09:10:37.080505+00:00</created>
+      <updated>2026-03-26 09:35:11.958443+00:00</updated>
+      <subset>default</subset>
+      <start_frame>0</start_frame>
+      <stop_frame>137</stop_frame>
+      <frame_filter></frame_filter>
+      <segments>
+        <segment>
+          <id>38</id>
+          <start>0</start>
+          <stop>137</stop>
+          <url>http://localhost:8080/api/jobs/38</url>
+        </segment>
+      </segments>
+      <owner>
+        <username>yagnik</username>
+        <email>cpsroad@gmail.com</email>
+      </owner>
+      <assignee></assignee>
+      <labels>
+        <label>
+          <name>Auto3WCargo</name>
+          <color>#cb90de</color>
+          <type>any</type>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>AutoRicksaw</name>
+          <color>#6993a6</color>
+          <type>any</type>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>Bus</name>
+          <color>#204080</color>
+          <type>any</type>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>Container</name>
+          <color>#965359</color>
+          <type>any</type>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>Mixer</name>
+          <color>#802020</color>
+          <type>any</type>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>MotorCycle</name>
+          <color>#80a0a0</color>
+          <type>any</type>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>PickUp</name>
+          <color>#fd6e43</color>
+          <type>any</type>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>SUV</name>
+          <color>#e9c5fd</color>
+          <type>any</type>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>Sedan</name>
+          <color>#a6cd17</color>
+          <type>any</type>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>Tanker</name>
+          <color>#0f5f69</color>
+          <type>any</type>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>Tipper</name>
+          <color>#66d312</color>
+          <type>any</type>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>Trailer</name>
+          <color>#d02080</color>
+          <type>any</type>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>Truck</name>
+          <color>#906080</color>
+          <type>any</type>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>Van</name>
+          <color>#10a040</color>
+          <type>any</type>
+          <attributes>
+          </attributes>
+        </label>
+      </labels>
+    </job>
+    <dumped>2026-03-26 09:35:23.737128+00:00</dumped>
+  </meta>
+  <track id="0" label="Truck" source="manual">
+    <box frame="0" keyframe="1" outside="0" occluded="0" xtl="1010.08" ytl="161.42" xbr="1208.08" ybr="236.61" rotation="183.70" z_order="0">
+    </box>
+    <box frame="1" keyframe="1" outside="0" occluded="0" xtl="969.55" ytl="157.98" xbr="1167.54" ybr="233.17" rotation="182.40" z_order="0">
+    </box>
+    <box frame="2" keyframe="1" outside="1" occluded="0" xtl="969.55" ytl="157.98" xbr="1167.54" ybr="233.17" rotation="182.40" z_order="0">
+    </box>
+  </track>
+  <track id="1" label="MotorCycle" source="manual">
+    <box frame="0" keyframe="1" outside="0" occluded="0" xtl="889.95" ytl="61.34" xbr="945.63" ybr="84.65" rotation="181.20" z_order="0">
+    </box>
+    <box frame="1" keyframe="1" outside="0" occluded="0" xtl="851.47" ytl="62.03" xbr="907.16" ybr="85.34" rotation="181.20" z_order="0">
+    </box>
+    <box frame="2" keyframe="1" outside="1" occluded="0" xtl="851.47" ytl="62.03" xbr="907.16" ybr="85.34" rotation="181.20" z_order="0">
+    </box>
+  </track>
+  <track id="2" label="MotorCycle" source="manual">
+    <box frame="0" keyframe="1" outside="0" occluded="0" xtl="584.37" ytl="123.10" xbr="631.73" ybr="146.42" rotation="179.00" z_order="0">
+    </box>
+    <box frame="1" keyframe="1" outside="0" occluded="0" xtl="532.16" ytl="122.42" xbr="579.51" ybr="145.73" rotation="179.00" z_order="0">
+    </box>
+    <box frame="2" keyframe="1" outside="1" occluded="0" xtl="532.16" ytl="122.42" xbr="579.51" ybr="145.73" rotation="179.00" z_order="0">
+    </box>
+  </track>
+  <track id="3" label="MotorCycle" source="manual">
+    <box frame="0" keyframe="1" outside="0" occluded="0" xtl="475.22" ytl="76.83" xbr="530.90" ybr="100.14" rotation="177.70" z_order="0">
+    </box>
+    <box frame="1" keyframe="1" outside="0" occluded="0" xtl="419.22" ytl="77.86" xbr="474.91" ybr="101.17" rotation="177.70" z_order="0">
+    </box>
+    <box frame="2" keyframe="1" outside="1" occluded="0" xtl="419.22" ytl="77.86" xbr="474.91" ybr="101.17" rotation="177.70" z_order="0">
+    </box>
+  </track>
+  <track id="4" label="MotorCycle" source="manual">
+    <box frame="0" keyframe="1" outside="0" occluded="0" xtl="518.61" ytl="534.92" xbr="574.29" ybr="558.23" rotation="105.50" z_order="0">
+    </box>
+    <box frame="1" keyframe="1" outside="0" occluded="0" xtl="517.92" ytl="536.98" xbr="573.61" ybr="560.29" rotation="107.50" z_order="0">
+    </box>
+    <box frame="2" keyframe="1" outside="1" occluded="0" xtl="517.92" ytl="536.98" xbr="573.61" ybr="560.29" rotation="107.50" z_order="0">
+    </box>
+  </track>
+  <track id="5" label="MotorCycle" source="manual">
+    <box frame="0" keyframe="1" outside="0" occluded="0" xtl="291.96" ytl="548.05" xbr="347.65" ybr="571.36" rotation="133.90" z_order="0">
+    </box>
+    <box frame="1" keyframe="1" outside="0" occluded="0" xtl="288.18" ytl="554.57" xbr="343.87" ybr="577.88" rotation="133.90" z_order="0">
+    </box>
+    <box frame="2" keyframe="1" outside="1" occluded="0" xtl="288.18" ytl="554.57" xbr="343.87" ybr="577.88" rotation="133.90" z_order="0">
+    </box>
+  </track>
+  <track id="6" label="MotorCycle" source="manual">
+    <box frame="0" keyframe="1" outside="0" occluded="0" xtl="220.62" ytl="569.01" xbr="271.35" ybr="592.32" rotation="139.90" z_order="0">
+    </box>
+    <box frame="1" keyframe="1" outside="0" occluded="0" xtl="214.43" ytl="573.47" xbr="265.17" ybr="596.78" rotation="139.90" z_order="0">
+    </box>
+    <box frame="2" keyframe="1" outside="1" occluded="0" xtl="214.43" ytl="573.47" xbr="265.17" ybr="596.78" rotation="139.90" z_order="0">
+    </box>
+  </track>
+  <track id="7" label="MotorCycle" source="manual">
+    <box frame="0" keyframe="1" outside="0" occluded="0" xtl="49.50" ytl="825.99" xbr="116.80" ybr="850.20" rotation="358.30" z_order="0">
+    </box>
+    <box frame="1" keyframe="1" outside="0" occluded="0" xtl="78.11" ytl="835.74" xbr="145.41" ybr="859.95" rotation="358.30" z_order="0">
+    </box>
+    <box frame="2" keyframe="1" outside="1" occluded="0" xtl="78.11" ytl="835.74" xbr="145.41" ybr="859.95" rotation="358.30" z_order="0">
+    </box>
+  </track>
+  <track id="8" label="MotorCycle" source="manual">
+    <box frame="0" keyframe="1" outside="0" occluded="0" xtl="295.09" ytl="761.38" xbr="350.78" ybr="784.69" rotation="1.20" z_order="0">
+    </box>
+    <box frame="1" keyframe="1" outside="0" occluded="0" xtl="336.55" ytl="769.25" xbr="393.79" ybr="792.57" rotation="8.60" z_order="0">
+    </box>
+    <box frame="2" keyframe="1" outside="1" occluded="0" xtl="336.55" ytl="769.25" xbr="393.79" ybr="792.57" rotation="8.60" z_order="0">
+    </box>
+  </track>
+  <track id="9" label="MotorCycle" source="manual">
+    <box frame="0" keyframe="1" outside="0" occluded="0" xtl="264.91" ytl="789.31" xbr="320.59" ybr="812.62" rotation="1.20" z_order="0">
+    </box>
+    <box frame="1" keyframe="1" outside="0" occluded="0" xtl="295.96" ytl="791.08" xbr="351.64" ybr="814.39" rotation="1.20" z_order="0">
+    </box>
+    <box frame="2" keyframe="1" outside="1" occluded="0" xtl="295.96" ytl="791.08" xbr="351.64" ybr="814.39" rotation="1.20" z_order="0">
+    </box>
+  </track>
+  <track id="10" label="MotorCycle" source="manual">
+    <box frame="0" keyframe="1" outside="0" occluded="0" xtl="1230.60" ytl="900.58" xbr="1286.29" ybr="923.89" rotation="264.60" z_order="0">
+    </box>
+    <box frame="1" keyframe="1" outside="0" occluded="0" xtl="1229.91" ytl="897.14" xbr="1285.60" ybr="920.46" rotation="264.60" z_order="0">
+    </box>
+    <box frame="2" keyframe="1" outside="1" occluded="0" xtl="1229.91" ytl="897.14" xbr="1285.60" ybr="920.46" rotation="264.60" z_order="0">
+    </box>
+  </track>
+  <track id="11" label="MotorCycle" source="manual">
+    <box frame="0" keyframe="1" outside="0" occluded="0" xtl="1287.83" ytl="888.28" xbr="1343.51" ybr="911.60" rotation="268.00" z_order="0">
+    </box>
+    <box frame="1" keyframe="1" outside="0" occluded="0" xtl="1286.79" ytl="885.88" xbr="1342.48" ybr="909.19" rotation="268.00" z_order="0">
+    </box>
+    <box frame="2" keyframe="1" outside="1" occluded="0" xtl="1286.79" ytl="885.88" xbr="1342.48" ybr="909.19" rotation="268.00" z_order="0">
+    </box>
+  </track>
+  <track id="12" label="MotorCycle" source="manual">
+    <box frame="0" keyframe="1" outside="0" occluded="0" xtl="1340.52" ytl="895.81" xbr="1396.21" ybr="919.12" rotation="276.80" z_order="0">
+    </box>
+    <box frame="1" keyframe="1" outside="0" occluded="0" xtl="1341.21" ytl="891.00" xbr="1396.90" ybr="914.32" rotation="276.80" z_order="0">
+    </box>
+    <box frame="2" keyframe="1" outside="1" occluded="0" xtl="1341.21" ytl="891.00" xbr="1396.90" ybr="914.32" rotation="276.80" z_order="0">
+    </box>
+  </track>
+  <track id="13" label="MotorCycle" source="manual">
+    <box frame="0" keyframe="1" outside="0" occluded="0" xtl="1404.52" ytl="907.11" xbr="1460.21" ybr="930.42" rotation="286.10" z_order="0">
+    </box>
+    <box frame="1" keyframe="1" outside="0" occluded="0" xtl="1405.21" ytl="903.33" xbr="1460.89" ybr="926.64" rotation="286.10" z_order="0">
+    </box>
+    <box frame="2" keyframe="1" outside="1" occluded="0" xtl="1405.21" ytl="903.33" xbr="1460.89" ybr="926.64" rotation="286.10" z_order="0">
+    </box>
+  </track>
+  <track id="14" label="MotorCycle" source="manual">
+    <box frame="0" keyframe="1" outside="0" occluded="0" xtl="1441.77" ytl="934.29" xbr="1497.46" ybr="962.17" rotation="292.10" z_order="0">
+    </box>
+    <box frame="1" keyframe="1" outside="0" occluded="0" xtl="1453.79" ytl="914.36" xbr="1509.48" ybr="942.25" rotation="292.10" z_order="0">
+    </box>
+    <box frame="2" keyframe="1" outside="1" occluded="0" xtl="1453.79" ytl="914.36" xbr="1509.48" ybr="942.25" rotation="292.10" z_order="0">
+    </box>
+  </track>
+  <track id="15" label="MotorCycle" source="manual">
+    <box frame="0" keyframe="1" outside="0" occluded="0" xtl="1834.92" ytl="787.14" xbr="1890.61" ybr="810.46" rotation="5.00" z_order="0">
+    </box>
+    <box frame="1" keyframe="1" outside="0" occluded="0" xtl="1866.18" ytl="788.18" xbr="1921.87" ybr="811.49" rotation="5.00" z_order="0">
+    </box>
+    <box frame="2" keyframe="1" outside="1" occluded="0" xtl="1866.18" ytl="788.18" xbr="1921.87" ybr="811.49" rotation="5.00" z_order="0">
+    </box>
+  </track>
+  <track id="16" label="MotorCycle" source="manual">
+    <box frame="0" keyframe="1" outside="0" occluded="0" xtl="1747.09" ytl="595.16" xbr="1802.77" ybr="618.47" rotation="16.60" z_order="0">
+    </box>
+    <box frame="1" keyframe="1" outside="0" occluded="0" xtl="1763.23" ytl="600.31" xbr="1818.92" ybr="623.62" rotation="16.60" z_order="0">
+    </box>
+    <box frame="2" keyframe="1" outside="1" occluded="0" xtl="1763.23" ytl="600.31" xbr="1818.92" ybr="623.62" rotation="16.60" z_order="0">
+    </box>
+  </track>
+  <track id="17" label="MotorCycle" source="manual">
+    <box frame="0" keyframe="1" outside="0" occluded="0" xtl="1852.19" ytl="117.09" xbr="1919.82" ybr="140.40" rotation="172.90" z_order="0">
+    </box>
+    <box frame="1" keyframe="1" outside="0" occluded="0" xtl="1815.44" ytl="116.74" xbr="1883.06" ybr="140.06" rotation="172.90" z_order="0">
+    </box>
+    <box frame="2" keyframe="1" outside="1" occluded="0" xtl="1815.44" ytl="116.74" xbr="1883.06" ybr="140.06" rotation="172.90" z_order="0">
+    </box>
+  </track>
+  <track id="18" label="MotorCycle" source="manual">
+    <box frame="0" keyframe="1" outside="0" occluded="0" xtl="1799.59" ytl="16.19" xbr="1867.22" ybr="39.50" rotation="172.90" z_order="0">
+    </box>
+    <box frame="1" keyframe="1" outside="0" occluded="0" xtl="1757.68" ytl="16.18" xbr="1825.30" ybr="39.50" rotation="176.80" z_order="0">
+    </box>
+    <box frame="2" keyframe="1" outside="1" occluded="0" xtl="1757.68" ytl="16.18" xbr="1825.30" ybr="39.50" rotation="176.80" z_order="0">
+    </box>
+  </track>
+  <track id="19" label="Truck" source="manual">
+    <box frame="0" keyframe="1" outside="0" occluded="0" xtl="160.21" ytl="626.31" xbr="329.91" ybr="694.51" rotation="5.10" z_order="0">
+    </box>
+    <box frame="1" keyframe="1" outside="0" occluded="0" xtl="169.83" ytl="626.31" xbr="339.53" ybr="694.51" rotation="5.10" z_order="0">
+    </box>
+    <box frame="2" keyframe="1" outside="1" occluded="0" xtl="169.83" ytl="626.31" xbr="339.53" ybr="694.51" rotation="5.10" z_order="0">
+    </box>
+  </track>
+  <track id="20" label="Truck" source="manual">
+    <box frame="0" keyframe="1" outside="0" occluded="0" xtl="361.48" ytl="671.20" xbr="544.07" ybr="739.39" rotation="5.10" z_order="0">
+    </box>
+    <box frame="1" keyframe="1" outside="0" occluded="0" xtl="371.79" ytl="672.23" xbr="554.38" ybr="740.42" rotation="5.10" z_order="0">
+    </box>
+    <box frame="2" keyframe="1" outside="1" occluded="0" xtl="371.79" ytl="672.23" xbr="554.38" ybr="740.42" rotation="5.10" z_order="0">
+    </box>
+  </track>
+  <track id="21" label="SUV" source="manual">
+    <box frame="0" keyframe="1" outside="0" occluded="0" xtl="596.07" ytl="670.25" xbr="733.72" ybr="735.22" rotation="10.00" z_order="0">
+    </box>
+    <box frame="1" keyframe="1" outside="0" occluded="0" xtl="604.66" ytl="671.97" xbr="742.31" ybr="736.94" rotation="10.00" z_order="0">
+    </box>
+    <box frame="2" keyframe="1" outside="1" occluded="0" xtl="604.66" ytl="671.97" xbr="742.31" ybr="736.94" rotation="10.00" z_order="0">
+    </box>
+  </track>
+  <track id="22" label="Truck" source="manual">
+    <box frame="0" keyframe="1" outside="0" occluded="0" xtl="819.88" ytl="755.40" xbr="1011.89" ybr="823.59" rotation="356.90" z_order="0">
+    </box>
+    <box frame="1" keyframe="1" outside="0" occluded="0" xtl="838.77" ytl="755.74" xbr="1030.79" ybr="823.94" rotation="356.90" z_order="0">
+    </box>
+    <box frame="2" keyframe="1" outside="1" occluded="0" xtl="838.77" ytl="755.74" xbr="1030.79" ybr="823.94" rotation="356.90" z_order="0">
+    </box>
+  </track>
+  <track id="23" label="SUV" source="manual">
+    <box frame="0" keyframe="1" outside="0" occluded="0" xtl="1085.00" ytl="757.90" xbr="1240.51" ybr="826.83" rotation="356.40" z_order="0">
+    </box>
+    <box frame="1" keyframe="1" outside="0" occluded="0" xtl="1105.61" ytl="754.81" xbr="1261.12" ybr="823.74" rotation="356.40" z_order="0">
+    </box>
+    <box frame="2" keyframe="1" outside="1" occluded="0" xtl="1105.61" ytl="754.81" xbr="1261.12" ybr="823.74" rotation="356.40" z_order="0">
+    </box>
+  </track>
+  <track id="24" label="SUV" source="manual">
+    <box frame="0" keyframe="1" outside="0" occluded="0" xtl="1356.94" ytl="754.74" xbr="1467.13" ybr="813.61" rotation="356.40" z_order="0">
+    </box>
+    <box frame="1" keyframe="1" outside="0" occluded="0" xtl="1385.46" ytl="752.33" xbr="1495.64" ybr="811.21" rotation="356.40" z_order="0">
+    </box>
+    <box frame="2" keyframe="1" outside="1" occluded="0" xtl="1385.46" ytl="752.33" xbr="1495.64" ybr="811.21" rotation="356.40" z_order="0">
+    </box>
+  </track>
+  <track id="25" label="Sedan" source="manual">
+    <box frame="0" keyframe="1" outside="0" occluded="0" xtl="1130.72" ytl="929.08" xbr="1268.93" ybr="992.23" rotation="273.80" z_order="0">
+    </box>
+    <box frame="1" keyframe="1" outside="0" occluded="0" xtl="1130.72" ytl="926.34" xbr="1268.93" ybr="989.48" rotation="273.80" z_order="0">
+    </box>
+    <box frame="2" keyframe="1" outside="1" occluded="0" xtl="1130.72" ytl="926.34" xbr="1268.93" ybr="989.48" rotation="273.80" z_order="0">
+    </box>
+  </track>
+  <track id="26" label="Sedan" source="manual">
+    <box frame="0" keyframe="1" outside="0" occluded="0" xtl="1752.07" ytl="656.68" xbr="1900.20" ybr="719.82" rotation="1.10" z_order="0">
+    </box>
+    <box frame="1" keyframe="1" outside="0" occluded="0" xtl="1790.89" ytl="657.36" xbr="1939.02" ybr="720.51" rotation="1.10" z_order="0">
+    </box>
+    <box frame="2" keyframe="1" outside="1" occluded="0" xtl="1790.89" ytl="657.36" xbr="1939.02" ybr="720.51" rotation="1.10" z_order="0">
+    </box>
+  </track>
+  <track id="27" label="Sedan" source="manual">
+    <box frame="0" keyframe="1" outside="0" occluded="0" xtl="1468.37" ytl="152.15" xbr="1614.55" ybr="215.29" rotation="180.40" z_order="0">
+    </box>
+    <box frame="1" keyframe="1" outside="0" occluded="0" xtl="1426.46" ytl="151.12" xbr="1572.64" ybr="214.26" rotation="180.40" z_order="0">
+    </box>
+    <box frame="2" keyframe="1" outside="1" occluded="0" xtl="1426.46" ytl="151.12" xbr="1572.64" ybr="214.26" rotation="180.40" z_order="0">
+    </box>
+  </track>
+  <track id="28" label="MotorCycle" source="manual">
+    <box frame="0" keyframe="1" outside="0" occluded="0" xtl="797.83" ytl="686.95" xbr="853.51" ybr="710.26" rotation="20.00" z_order="0">
+    </box>
+    <box frame="1" keyframe="1" outside="0" occluded="0" xtl="808.47" ytl="689.36" xbr="864.16" ybr="712.67" rotation="20.00" z_order="0">
+    </box>
+    <box frame="2" keyframe="1" outside="1" occluded="0" xtl="808.47" ytl="689.36" xbr="864.16" ybr="712.67" rotation="20.00" z_order="0">
+    </box>
+  </track>
+  <track id="29" label="MotorCycle" source="manual">
+    <box frame="0" keyframe="1" outside="0" occluded="0" xtl="1055.90" ytl="688.37" xbr="1111.59" ybr="711.68" rotation="355.50" z_order="0">
+    </box>
+    <box frame="1" keyframe="1" outside="0" occluded="0" xtl="1085.78" ytl="685.96" xbr="1141.47" ybr="709.27" rotation="355.50" z_order="0">
+    </box>
+    <box frame="2" keyframe="1" outside="1" occluded="0" xtl="1085.78" ytl="685.96" xbr="1141.47" ybr="709.27" rotation="355.50" z_order="0">
+    </box>
+  </track>
+  <track id="30" label="MotorCycle" source="manual">
+    <box frame="0" keyframe="1" outside="0" occluded="0" xtl="1013.56" ytl="946.38" xbr="1069.24" ybr="969.69" rotation="27.50" z_order="0">
+    </box>
+    <box frame="1" keyframe="1" outside="0" occluded="0" xtl="1024.89" ytl="951.53" xbr="1080.58" ybr="974.84" rotation="27.50" z_order="0">
+    </box>
+    <box frame="2" keyframe="1" outside="1" occluded="0" xtl="1024.89" ytl="951.53" xbr="1080.58" ybr="974.84" rotation="27.50" z_order="0">
+    </box>
+  </track>
+</annotations>
