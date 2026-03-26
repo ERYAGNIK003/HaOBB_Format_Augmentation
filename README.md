@@ -1,6 +1,27 @@
 # HaOBB_Format_Augmentation
 This repository contained Python scripts for converting CVAT XML to DRASHTI-HaOBB annotation format and HaOBB augmentation.
 
+## Clone the directory
+```bash
+git clone https://github.com/ERYAGNIK003/HaOBB_Format_Augmentation.git
+cd HaOBB_Format_Augmentation/
+```
+## Dataset annotation conversion from CVAT XML to DRASHTI-HaOBB format
+```bash
+python XML_to_DRASHTI-HaOBB.py
+```
+Results will be saved in the output directory (drashti_lbls and annotated).
+
+## DRASHTI-HaOBB dataset augmentation
+```bash
+python DRASHTI-HaOBB_Augmentation.py --img Sample\ Images/0Ago_SddH_jFbn.jpg --lbl Annotations/0Ago_SddH_jFbn.txt --hsv --affine --fliplr --flipud
+```
+OR
+
+```bash
+python DRASHTI-HaOBB_Augmentation.py --img Sample\ Images/5640.jpg --lbl output/drashti_lbls/5640.txt --hsv --affine --fliplr --flipud
+```
+
 ## 📜 Citation
 
 If you use this pipeline or dataset in your research, please cite:
