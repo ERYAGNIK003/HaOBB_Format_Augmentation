@@ -45,7 +45,7 @@ def get_rotated_box_points(xtl, ytl, xbr, ybr, angle_deg):
 def get_frame_to_image_map(image_dir):
     images = sorted([
         f for f in os.listdir(image_dir)
-        if f.lower().endswith(('.jpg'))
+        if f.lower().endswith(('.jpg')) and os.path.splitext(f)[0].isdigit()
     ])
     print("Total images are ",len(images))
     return images  # index = frame number
