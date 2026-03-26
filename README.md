@@ -1,6 +1,10 @@
 # HaOBB_Format_Augmentation
 This repository provides Python scripts for converting CVAT XML to DRASHTI-HaOBB annotation format and HaOBB augmentation.
 
+## Install Python packages 
+```bash
+pip install numpy opencv-python
+```
 ## Clone the directory
 ```bash
 git clone https://github.com/ERYAGNIK003/HaOBB_Format_Augmentation.git
